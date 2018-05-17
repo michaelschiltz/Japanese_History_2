@@ -1,4 +1,4 @@
-## Japanese_History_II
+## Japanese History 2
 
 ### Introduction
 
