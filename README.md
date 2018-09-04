@@ -15,7 +15,7 @@ Methodologically, the course presents multiple chances to engage with primary so
 
 #### Introductory reading:
 
-Tamaki, Norio. 1995. Japanese Banking: A History, 1859-1959. Studies in Monetary and Financial History. Cambridge: Cambridge University Press.
+Tamaki, Norio. 1995. *Japanese Banking: A History, 1859-1959*. Studies in Monetary and Financial History. Cambridge: Cambridge University Press.
 
 #### Topics to be covered:
 
