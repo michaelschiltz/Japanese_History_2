@@ -19,21 +19,21 @@ Tamaki, Norio. 1995. *Japanese Banking: A History, 1859-1959*. Studies in Moneta
 
 #### Topics to be covered:
 
-1. Bakumatsu currency crisis
-2. From the Trade Dollar to the Bank of Japan
-3. Matsukata deflation
-4. Adoption of the Gold Standard -part 1
-5. Adoption of the Gold Standard -part 2
-6. The Russo Japanese War
-7. World War I: Japan’s Role on the International Scene
-8. Restoration of the Gold Standard
-9. The Rise of Financial Expertise in the Roaring Twenties
-10. The Great Depression
-11. Women’s Role in the Great Depression
-12. Financial Imperialism in Asia 1
-13. Financial Imperialism in Asia 2
-14. 圓の戦争
-15. Bankrupting Japan: The Financial Freeze
+1. [Bakumatsu currency crisis](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2001%20-%20Bakumatsu%20currency%20crisis.md)
+2. [From the Trade Dollar to the Bank of Japan](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2002%20-%20From%20the%20Trade%20Dollar%20to%20the%20Bank%20of%20Japan.md)
+3. [Matsukata deflation](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2003%20-%20Matsukata%20deflation.md)
+4. [Adoption of the Gold Standard -part 1](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2004%20-%20Adoption%20of%20the%20Gold%20Standard%201.md)
+5. [Adoption of the Gold Standard -part 2](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2005%20-%20Adoption%20of%20the%20Gold%20Standard%202.md)
+6. [The Russo Japanese War](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2006%20-%20Russo%20Japanese%20War.md)
+7. [World War I: Japan’s Role on the International Scene](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2007%20-%20World%20War%20I:%20Japan%E2%80%99s%20Role%20on%20the%20International%20Scene.md)
+8. [Restoration of the Gold Standard](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2008%20-%20Restoration%20of%20the%20Gold%20Standard.md)
+9. [The Rise of Financial Expertise in the Roaring Twenties](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2009%20-%20The%20Rise%20of%20Financial%20Expertise%20in%20the%20Roaring%20Twenties.md)
+10. [The Great Depression](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2010%20-%20The%20Great%20Depression.md)
+11. [Women’s Role in the Great Depression](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2011%20-%20Women%E2%80%99s%20Role%20in%20the%20Great%20Depression.md)
+12. [Financial Imperialism in Asia 1](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2012%20-%20Financial%20Imperialism%20in%20Asia%201.md)
+13. [Financial Imperialism in Asia 2](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2013%20-%20Financial%20Imperialism%20in%20Asia%202.md)
+14. [圓の戦争](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2014%20-%20%E5%9C%93%E3%81%AE%E6%88%A6%E4%BA%89%20-%20the%20struggle%20of%20the%20continental%20yen.md)
+15. [Bankrupting Japan: The Financial Freeze](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2015%20-%20Bankrupting%20Japan:%20The%20Financial%20Freeze.md)
 
 #### Homework
 
