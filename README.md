@@ -32,7 +32,7 @@ Tamaki, Norio. 1995. *Japanese Banking: A History, 1859-1959*. Studies in Moneta
 11. [Women’s Role in the Great Depression](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2011%20-%20Women%E2%80%99s%20Role%20in%20the%20Great%20Depression.md)
 12. [Financial Imperialism in Asia 1](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2012%20-%20Financial%20Imperialism%20in%20Asia%201.md)
 13. [Financial Imperialism in Asia 2](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2013%20-%20Financial%20Imperialism%20in%20Asia%202.md)
-14. [圓の戦争](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2014%20-%20%E5%9C%93%E3%81%AE%E6%88%A6%E4%BA%89%20-%20the%20struggle%20of%20the%20continental%20yen.md)
+14. [圓の戦争 - the struggle of the continental yen](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2014%20-%20%E5%9C%93%E3%81%AE%E6%88%A6%E4%BA%89%20-%20the%20struggle%20of%20the%20continental%20yen.md)
 15. [Bankrupting Japan: The Financial Freeze](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2015%20-%20Bankrupting%20Japan:%20The%20Financial%20Freeze.md)
 
 #### Homework
