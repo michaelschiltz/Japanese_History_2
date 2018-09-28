@@ -1,6 +1,6 @@
 ### Keywords
 
-* isolationism, opening up, arbitrage
+* isolationism, opening up, arbitrage, Gresham's Law
 
 ### Points of discussion
 
