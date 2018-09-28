@@ -28,6 +28,8 @@ Note: compulsory readings have been marked in **bold**
 
 * Cullen, Louis M. 2009. “Statistics of Tokugawa Coastal Trade and Bakumatsu and Early Meiji Foreign Trade.” *Japan Review*, no. 21: 183–223. https://www.jstor.org/stable/25791334.
 * Cullen, Louis M. 2010. “Statistics of Tokugawa Coastal Trade and Bakumatsu and Early Meiji Foreign Trade, Part 2: Trade in Bakumatsu and Early Meiji Times.” *Japan Review*, no. 22: 59–102. https://www.jstor.org/stable/25791342.
+* “Apocalypse Now: An Alternate View of the Bakumatsu Years | M. William Steele – Digital Meijis.” n.d. Accessed September 28, 2018. https://pressbooks.bccampus.ca/meijiat150/chapter/apocalypse-now-an-alternate-view-of-the-bakumatsu-years-m-william-steele/.
+
 
 ### to follow (@twitter)
 
