@@ -35,5 +35,5 @@ Note: compulsory readings have been marked in **bold**
 
 ![](images/Steele-Figure-1-e1535387678118-1024x742.jpg)
 
-Source: Anonymous, “A Compendium of Events and Record of the Rice Market from 1853 to 1868” (嘉永年間より米相場値段並年代書抜大新版 *Ka’ei nenkan yori bei sōba nedan narabi ni nendaiki kakinuki daishinpan*), n.d., but perhaps (?) mid-1868. Source: Hachiro Yuasa Memorial Museum.
+Source: Anonymous, “A Compendium of Events and Record of the Rice Market from 1853 to 1868” (嘉永年間より米相場値段並年代記書抜大新版 *Ka’ei nenkan yori bei sōba nedan narabi ni nendaiki kakinuki daishinpan*), n.d., but perhaps (?) mid-1868. Source: Hachiro Yuasa Memorial Museum.
 
