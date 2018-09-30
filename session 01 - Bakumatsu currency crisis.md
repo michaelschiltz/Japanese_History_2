@@ -11,13 +11,13 @@
 ### Readings
 Note: compulsory readings have been marked in **bold**
 
-* **Metzler, Mark. 2006. *Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan*. Twentieth-Century Japan 17. Berkeley: University of California Press.** 
+* **Metzler, Mark. 2006. *Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan*. Twentieth-Century Japan 17. Berkeley: University of California Press.** Pp. 14-28.
 * Ohkura, Takehiko, and Hiroshi Shimbo. 1978. “The Tokugawa Monetary Policy in the Eighteenth and Nineteenth Centuries.” *Explorations in Economic History* 15 (1): 101–24. https://doi.org/10.1016/0014-4983(78)90040-2.
 
 ### Primary sources
 
 * **Matsukata, Masayoshi. 1897. *Reasons for the Adoption of a Single Gold Standard by the Empire of Japan* [Microform]. [S.l. : s.n.]. http://archive.org/details/reasonsforadopti00mats.**
-* **Masayoshi Matsukata. 1899. *Report on the Adoption of the Gold Standard in Japan*. Printed at the Government press. http://archive.org/details/reportonadoptio00matsgoog.**
+* **Masayoshi Matsukata. 1899. *Report on the Adoption of the Gold Standard in Japan*. Printed at the Government press. http://archive.org/details/reportonadoptio00matsgoog.** Pp. 1-17.
 * Satow, Ernest Mason. 1921. *A Diplomat in Japan; the Inner History of the Criticial Years in the Evolution of Japan When the Ports Were Opened and the Monarchy Restored*. London : Seeley, Service. http://archive.org/details/diplomatinjapani00sato.
 * 佐藤雅美. 2003. 『「大君の通貨―幕末「円ドル」戦争』. 東京: 文藝春秋.
 
