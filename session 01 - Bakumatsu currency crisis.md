@@ -1,11 +1,13 @@
 ### Keywords
 
-* isolationism, opening up, arbitrage, Gresham's Law
+* isolationism, opening up, arbitrage, Gresham's Law,
 
 ### Points of discussion
 
-* why could the pre-modern monetary system continue for so long?
+* a critical text examination: list the characteristics of Matsukata's report; who is his audience? what does he try to accomplish? how does all this affect out interpretation of his text?
+* why could the pre-modern monetary system continue for so long? List the conditions for this; who or what was to gain from this set-up?
 * why is it important to know that silver and gold were not mere commodities, but the country's currency as well?
+* try to explain how Japan's adoption of the gold standard as a monetary standard is not a neutral event, but reflects the norms associated with a Great-Britain led world-order.
 * do you see parallels with other past and/or contemporary happenings?
 
 ### Readings
@@ -22,6 +24,8 @@ Note: compulsory readings have been marked in **bold**
 * 佐藤雅美. 2003. 『「大君の通貨―幕末「円ドル」戦争』. 東京: 文藝春秋.
 
 ### Audiovisual materials
+
+* “銀座　地名の由来～貨幣制度の根幹をなした地 - YouTube.” n.d. Accessed October 1, 2018. https://www.youtube.com/watch?v=bqrU5dtf4QA.
 
 
 ### Links to other projects, websites, others
