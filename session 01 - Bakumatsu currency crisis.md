@@ -18,6 +18,8 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* Griffis, William Elliot. 1895. *Townsend Harris, First American Envoy in Japan*. Boston, New York, Houghton, Mifflin and Company. http://archive.org/details/townsendharrisf00grifgoog.
+* Harris, Townsend. 1959. *Complete Journal of Townsend Harris*. Rutland, Vt.,: C. E. Tuttle co. http://archive.org/details/completejournalo00harr. (seek references with respect to gold and silver)
 * **Matsukata, Masayoshi. 1897. *Reasons for the Adoption of a Single Gold Standard by the Empire of Japan* [Microform]. [S.l. : s.n.]. http://archive.org/details/reasonsforadopti00mats.**
 * **Masayoshi Matsukata. 1899. *Report on the Adoption of the Gold Standard in Japan*. Printed at the Government press. http://archive.org/details/reportonadoptio00matsgoog.** Pp. 1-17.
 * Satow, Ernest Mason. 1921. *A Diplomat in Japan; the Inner History of the Criticial Years in the Evolution of Japan When the Ports Were Opened and the Monarchy Restored*. London : Seeley, Service. http://archive.org/details/diplomatinjapani00sato.
