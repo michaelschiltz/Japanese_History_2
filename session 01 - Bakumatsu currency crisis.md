@@ -37,6 +37,8 @@ Note: compulsory readings have been marked in **bold**
 * Cullen, Louis M. 2009. “Statistics of Tokugawa Coastal Trade and Bakumatsu and Early Meiji Foreign Trade.” *Japan Review*, no. 21: 183–223. https://www.jstor.org/stable/25791334.
 * Cullen, Louis M. 2010. “Statistics of Tokugawa Coastal Trade and Bakumatsu and Early Meiji Foreign Trade, Part 2: Trade in Bakumatsu and Early Meiji Times.” *Japan Review*, no. 22: 59–102. https://www.jstor.org/stable/25791342.
 * “Apocalypse Now: An Alternate View of the Bakumatsu Years | M. William Steele – Digital Meijis.” n.d. Accessed September 28, 2018. https://pressbooks.bccampus.ca/meijiat150/chapter/apocalypse-now-an-alternate-view-of-the-bakumatsu-years-m-william-steele/.
+* 鎮目雅人 [『銀貨の歴史〜激動の時代をささえた貨幣〜』](http://www.waseda.jp/fpse/winpec/assets/uploads/2016/03/84a4f9cdcda7bac5b32b794a9834dd78.pdf) 早稲田大学現代政治経済研究所〈WINPEC Working Paper〉、2016年、1-14頁。 
+* 武田晴人 [「「両」制度の崩壊――幕末の金流出」](https://www.boj.or.jp/announcements/koho_nichigin/backnumber/data/nichigin18-7.pdf)、『にちぎん』 (日本銀行)24-27頁、2009年。
 
 
 ### to follow (@twitter)
