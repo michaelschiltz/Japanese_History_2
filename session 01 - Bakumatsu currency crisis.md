@@ -10,6 +10,7 @@
 * try to explain how Japan's adoption of the gold standard as a monetary standard is not a neutral event, but reflects the norms associated with a Great-Britain led world-order.
 * do you see parallels with other past and/or contemporary happenings?
 
+
 * Japanese era-names tend to confuse even the seasoned historian; for reference, see the following [template](https://en.wikipedia.org/wiki/Template:Timeline_of_Japanese_era_names)
 
 ### Readings
