@@ -1,6 +1,6 @@
 ### Keywords
 
-* isolationism, opening up, arbitrage, Gresham's Law,
+* isolationism, opening up, [arbitrage](https://en.wikipedia.org/wiki/Arbitrage), [Gresham's Law](https://en.wikipedia.org/wiki/Gresham%27s_law).
 
 ### Points of discussion
 
@@ -9,6 +9,8 @@
 * why is it important to know that silver and gold were not mere commodities, but the country's currency as well?
 * try to explain how Japan's adoption of the gold standard as a monetary standard is not a neutral event, but reflects the norms associated with a Great-Britain led world-order.
 * do you see parallels with other past and/or contemporary happenings?
+
+* Japanese era-names tend to confuse even the seasoned historian; for reference, see the following [template](https://en.wikipedia.org/wiki/Template:Timeline_of_Japanese_era_names)
 
 ### Readings
 Note: compulsory readings have been marked in **bold**
