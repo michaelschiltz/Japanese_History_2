@@ -4,7 +4,7 @@
 
 ### A Timeline of Events
 
-* see [here](related docs/session 1 - timeline.pdf)
+* see [here](related docs/session_1_timeline.pdf)
 
 ### Points of discussion
 
