@@ -2,6 +2,8 @@
 
 * isolationism, opening up, [arbitrage](https://en.wikipedia.org/wiki/Arbitrage), [Gresham's Law](https://en.wikipedia.org/wiki/Gresham%27s_law).
 
+### [A Timeline of Events](related docs/session 1 - timeline.pdf)
+
 ### Points of discussion
 
 * a critical text examination: list the characteristics of Matsukata's report; who is his audience? what does he try to accomplish? how does all this affect out interpretation of his text?
