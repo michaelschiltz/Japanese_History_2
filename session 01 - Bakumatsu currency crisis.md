@@ -4,7 +4,7 @@
 
 ### A Timeline of Events
 
-* see [here](related docs/session_1_timeline.pdf)
+* see [here](https://github.com/michaelschiltz/Japanese_History_2/blob/master/related%20docs/session_1_timeline.pdf)
 
 ### Points of discussion
 
