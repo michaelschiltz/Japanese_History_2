@@ -2,7 +2,9 @@
 
 * isolationism, opening up, [arbitrage](https://en.wikipedia.org/wiki/Arbitrage), [Gresham's Law](https://en.wikipedia.org/wiki/Gresham%27s_law).
 
-### A [Timeline of Events](related docs/session 1 - timeline.pdf)
+### A Timeline of Events
+
+* see [here](related docs/session 1 - timeline.pdf)
 
 ### Points of discussion
 
