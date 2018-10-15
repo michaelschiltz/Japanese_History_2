@@ -3,7 +3,7 @@
 
 ### Points of discussion
 
-* try to understand the nature of inflation and deflation; what is the meaning of the saying according to which 'inflation is always and everywhere a monetary phenomenon' ([Milton Friedman](https://en.wikiquote.org/wiki/Milton_Friedman); does the same hold for deflation? If yes, explain; if no, explain...
+* try to understand the nature of inflation and deflation; what is the meaning of the saying according to which 'inflation is always and everywhere a monetary phenomenon' ([Milton Friedman](https://en.wikiquote.org/wiki/Milton_Friedman)); does the same hold for deflation? If yes, explain; if no, explain...
 * what are the characteristics of a program of induced deflation? Does it profit creditors or debtors?
 " Why are induced deflations considered 'draconian measures'?
 * contemporary relevance: what are the ideas behind 'quantitative and qualitative easing'?
