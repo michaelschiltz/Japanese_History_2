@@ -18,7 +18,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
-* **Masayoshi Matsukata. 1899. *Report on the Adoption of the Gold Standard in Japan*. Printed at the Government press. http://archive.org/details/reportonadoptio00matsgoog.**
+* Masayoshi Matsukata. 1899. *Report on the Adoption of the Gold Standard in Japan*. Printed at the Government press. http://archive.org/details/reportonadoptio00matsgoog.
 
 
 ### Audiovisual materials
