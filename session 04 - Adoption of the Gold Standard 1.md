@@ -1,6 +1,6 @@
 ### Keywords
 
-* gold standard, currency regimes, 'hard peg', sovereign debt
+* gold standard, currency regimes, 'hard peg', sovereign debt, currency regimea and trade
 
 ### Points of discussion
 
