@@ -5,7 +5,7 @@
 ### Points of discussion
 
 * today's papers offer two radically different reasons for why countries peg their currencies to other ones (in this case, by means of a gold standard: as 2 currencies express the value of their currency in an amount of gold of a certain fineness, their exchange rates are indirectly fixed). Identify these reasons and explain.
-* the paper by Sussmann and Yafeh is an application of the so-called `gold standard as a good housekeeping seal of approval` theory. This theory assumes that `exchange rate risk` is the only risk to be considered in case of sovereign debt. Do you think this is correct? [hint: see [here](https://www.investopedia.com/terms/s/sovereignrisk.asp). Do you think these different risk types are nevertheless interrelated?
+* the paper by Sussmann and Yafeh is an application of the so-called `gold standard as a good housekeeping seal of approval` theory. This theory assumes that `exchange rate risk` is the only risk to be considered in case of sovereign debt. Do you think this is correct? [hint: see [here](https://www.investopedia.com/terms/s/sovereignrisk.asp)]. Do you think these different risk types are nevertheless interrelated?
 * the paper by Mitchener et al. perceive a linkage between the adoption of a hard peg, on the one hand, and an increased trade volume, on the other. Is their application logically correct? Explain.
 
 (for all questions, it is not so important to have a 'correct answer' (after all, the verdict is still out on this, including in the economic literature). I would rather see an *explanation of the search process you have done for finding the relevant literature*.)
