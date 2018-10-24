@@ -33,6 +33,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Links to other projects, websites, others
 
+* [This Time is Different](http://www.reinhartandrogoff.com/)
 
 ### to follow (@twitter)
 
