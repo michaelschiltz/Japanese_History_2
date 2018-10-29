@@ -5,7 +5,7 @@
 * clearly distinguish the three different interpretations of why Japan adopted the gold standard
 * depending on the explanation/interpretation, there appear to be inconsistencies in Matsukata's thinking: explain.
 * use today's and last week's session as an epistemological exercise: what defines the validity of an explanation? Does 'anything go' (i.e. are all explanations equally valid?)? How do we discriminate between explanations, and do he have to (and why?)?
-* when preparing the discussion, think about [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor), [Akaike information criterion](https://en.wikipedia.org/wiki/Akaike_information_criterion), and possibly related notions.
+* when preparing the discussion, think about [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor), the [Akaike information criterion](https://en.wikipedia.org/wiki/Akaike_information_criterion), and possibly related notions.
 
 ### Readings
 Note: compulsory readings have been marked in **bold**
