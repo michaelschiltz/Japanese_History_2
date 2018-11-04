@@ -15,11 +15,16 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* [Jacar 'Topics": The Russo-Japanese War](https://www.jacar.go.jp/topicsfromjacar/01_warissues/index01_004.html)
+
 
 ### Audiovisual materials
 
 
 ### Links to other projects, websites, others
+
+* **[日露戦争特別展　公文書に見る日露戦争](https://www.jacar.go.jp/nichiro/frame1.htm)**
+* **[日露戦争特別展II　開戦から日本海海戦まで 激闘500日の記録](https://www.jacar.go.jp/nichiro2/index.html)**
 
 
 ### to follow (@twitter)
