@@ -4,7 +4,9 @@
 
 ### Points of discussion
 
-* in order to grasp the accounting wizardry explained in Ono's paper, see: Addogram. n.d. Japan’s Debt Problem Visualized. Accessed November 7, 2018. https://www.youtube.com/watch?v=Njp8bKpi-vg.
+* Miller (2005: 474) correctly notes the role of the press in determining Japanese creditworthiness throughout the Russo-Japanese War: discuss. Do you think that the very realization of this made 'news' and public opinion a matter of national interest? Consider the role of rumors and 'fake news' in the formation of the modern press.
+* Also, Miller (2005: 478) briefly mentions the 'propping' of Russian bonds by French bankers. What could this have entailed?
+* in order to grasp the accounting wizardry (and its surprisingly 21st century touch!) explained in Ono's paper, see: Addogram. n.d. Japan’s Debt Problem Visualized. Accessed November 7, 2018. https://www.youtube.com/watch?v=Njp8bKpi-vg.
 
 ### Readings
 Note: compulsory readings have been marked in **bold**
@@ -13,7 +15,7 @@ Note: compulsory readings have been marked in **bold**
 * Gower, A. 2016. “Jacob Schiff and the Financing of Japan.” Doctoral, UCL (University College London). http://discovery.ucl.ac.uk/1522336/.
 * **Miller, Ed. 2005. “Japan’s Other Victory: Overseas of the War.” In *THE RUSSO-JAPANESE WAR IN GLOBAL PERSPECTIVE - World War Zero*, by John W Steinberg, Bruce W. Menning, David Schimmelpenninck van der Oye, David Wolff, and Yokote Shinji, 465–84. Leiden, Boston: Brill Publishers.**
 * **Ono, Keishi. 2007. “Japan’s Monetary Mobilization for War.” *The Russo-Japanese War in Global Perspective*, January, 251–69. https://brill.com/abstract/book/edcoll/9789047411123/Bej.9789004154162.i-583_011.xml.**
-* Sherman, A. J. 1983. “German-Jewish Bankers in World Politics: The Financing of the Russo-Japanese War.” The Leo Baeck Institute Year Book 28 (1): 59–73. https://doi.org/10.1093/leobaeck/28.1.59.
+* Sherman, A. J. 1983. “German-Jewish Bankers in World Politics: The Financing of the Russo-Japanese War.” *The Leo Baeck Institute Year Book* 28 (1): 59–73. https://doi.org/10.1093/leobaeck/28.1.59.
 * Suzuki, Toshio. 1994. *Japanese Government Loan Issues on the London Capital Market, 1870-1913*. London ; Atlantic Highlands, NJ: Athlone Pr.
 
 ### Primary sources
