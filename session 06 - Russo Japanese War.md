@@ -1,10 +1,10 @@
 ### Keywords
 
-* modern warfare, war finance
-
+* modern warfare, war finance, debt sustainability
 
 ### Points of discussion
 
+* in order to grasp the accounting wizardry explained in Ono's paper, see: Addogram. n.d. Japan’s Debt Problem Visualized. Accessed November 7, 2018. https://www.youtube.com/watch?v=Njp8bKpi-vg.
 
 ### Readings
 Note: compulsory readings have been marked in **bold**
