@@ -26,6 +26,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Links to other projects, websites, others
 
+* *The Telegraph*. 2017. “Betrayed Ally: How China Was Snubbed after World War I,” March 21, 2017. https://www.telegraph.co.uk/news/world/china-watch/society/betrayed-ally-snubbed-after-world-war-i/.
 * “Japan during World War I.” 2018. Wikipedia. https://en.wikipedia.org/w/index.php?title=Japan_during_World_War_I&oldid=868291760.
 
 ### to follow (@twitter)
