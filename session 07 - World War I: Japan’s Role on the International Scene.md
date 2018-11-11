@@ -33,3 +33,4 @@ Note: compulsory readings have been marked in **bold**
 
 
 
+![China, again betrayed in WWI](images/lpj_1902_04_06_widener.jpg)
