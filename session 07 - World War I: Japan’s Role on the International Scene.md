@@ -7,6 +7,7 @@
 ### Readings
 Note: compulsory readings have been marked in **bold**
 
+* Best, Antony, and Oliviero Frattolillo, eds. 2016. *Japan and the Great War*. 1st ed. 2015 edition. New York, NY: Palgrave Macmillan.
 * Chi, Madeleine. “Bureaucratic Capitalists in Operation: Ts'ao Ju-Lin and His New Communications Clique, 1916-1919.” *The Journal of Asian Studies 34*, no. 3 (May 1975): 675. doi:10.2307/2052549.
 * Dickinson, Frederick R. 1999. *War and National Reinvention: Japan in the Great War, 1914-1919*. Harvard East Asian Monographs. Cambridge, Mass: Harvard University Asia Center.
 * Langdon, Frank C. 1957. “Japan’s Failure to Establish Friendly Relations with China in 1917-1918.” *Pacific Historical Review* 26 (3): 245–58. doi:10.2307/3636215.
@@ -16,13 +17,16 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* “社会科授業用資料リスト.” n.d. Accessed November 11, 2018. https://www.jacar.go.jp/siryolist/index.html.
 * Inoue, Junnosuke, and Eric Henry De Bunsen. 1931. *Problems of the Japanese Exchange, 1914-1926*. London: Macmillan and Co. https://catalog.hathitrust.org/Record/006103638.
 
 ### Audiovisual materials
 
+* “WW1: The Siege of Tsingtao.” n.d. BBC News. Accessed November 11, 2018. https://www.bbc.com/news/av/world-asia-china-29801553/ww1-the-siege-of-tsingtao.
 
 ### Links to other projects, websites, others
 
+* “Japan during World War I.” 2018. Wikipedia. https://en.wikipedia.org/w/index.php?title=Japan_during_World_War_I&oldid=868291760.
 
 ### to follow (@twitter)
 
