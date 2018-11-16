@@ -44,6 +44,10 @@ Students are expected to:
 3. To Research, write, present, and defend your argument and choice of topic to be discussed.
 4. When presenting, students should go beyond the narrow content of the reading to be presented; develop an argument as a coherent whole, e.g. by focusing on theoretical issues (e.g. the relationship between (political) power and violence, methodological ones (for instance the nature of the relationship between ‘ideas’ and the material/technological/… contexts in which they are shaped)
 
+#### How to read?
+
+Undergraduate students often find it challenging to read scientific articles; and indeed, the format that characterizes scientific publications is quite different from what may have been familiar in highschool. [Here](https://en.wikipedia.org/wiki/SQ3R) is a digest of a comprehensive reading method called SQ3R; there also exists a [longer guide](https://www.ucc.vt.edu/academic_support/online_study_skills_workshops/SQ3R_improving_reading_comprehension.html). 
+
 #### Grading System
 
 Evaluation will be based on: reading notes, class discussions (other means of evaluation may be discussed with the students). There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations. They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
