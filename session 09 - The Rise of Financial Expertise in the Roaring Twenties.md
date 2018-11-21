@@ -1,5 +1,6 @@
 ### Keywords
 
+* `expertise`, `money doctoring`, `gold exchange standard`
 
 ### Points of discussion
 
