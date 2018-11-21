@@ -22,6 +22,7 @@ Note: compulsory readings have been marked in **bold**
 ### Audiovisual materials
 
 * 日本の歴史的演説. n.d. 「井上準之助「危ない哉！国民経済」」. Accessed November 16, 2018. https://www.youtube.com/watch?v=pdaa-NIIrCM.
+* Historia Mundi. n.d. 166　金解禁と昭和恐慌（教科書343）　日本史ストーリーノート第17話. Accessed November 21, 2018. https://www.youtube.com/watch?v=DV_bI7O_zhw.
 
 ### Links to other projects, websites, others
 
