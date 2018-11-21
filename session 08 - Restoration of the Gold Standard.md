@@ -4,7 +4,7 @@
 
 ### Points of discussion
 
-* gold standard restoration fitted in a wider global trend towards so-called stabilization (e.g. price stabilization) and was described as a reaction to the inflationary wave that was fueled by the post-WWI reconstruction. Yet it was not the first, nor the last, induced depression in modern history: discuss. Remember that price stabilization and exchange-rate stabilization were/are different, yet complementary aspects of the deflationary mindset.
+* gold standard restoration fitted in a wider global trend towards so-called stabilization (e.g. price stabilization) and rationalization (合理化) and was described as a reaction to the inflationary wave that was fueled by the post-WWI reconstruction. Yet it was not the first, nor the last, induced depression in modern history: discuss. Remember that price stabilization and exchange-rate stabilization were/are different, yet complementary aspects of the deflationary mindset.
 * try to pinpoint what constitutes the core idea and the primary problem of induced deflation (stabilizing/destabilizing). Why did high finance, in particular, have a stake in such policy? Were gains and losses equally distributed between creditors and debtors?
 
 ### Readings
