@@ -51,3 +51,10 @@ Undergraduate students often find it challenging to read scientific articles; an
 #### Grading System
 
 Evaluation will be based on: reading notes, class discussions (other means of evaluation may be discussed with the students). There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations. They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
+Although all grading is characterized by an inherent opacity (if only for the simple reason that every presentation pertains to different material and a different session), here are some simple rules:
+
+1. students presenting on several occasions will receive a higher grade
+2. students making elaborate presentations (including audiovisual material, links to primary sources etc.) will be rewarded for the extra effort
+3. showing that you mastered the readings by partaking actively in the discussions is a plus.
+
+As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), the class strongly encourages and rewards participation; vice versa, it penalizes a passive or absent behavior.　
