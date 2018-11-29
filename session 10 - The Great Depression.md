@@ -25,13 +25,13 @@ Note: compulsory readings have been marked in **bold**
 * Joya Tilley. n.d. 高校・映像でつづる昭和史＝戦前（高校日本史）  FC2 Video. Accessed November 29, 2018. https://www.youtube.com/watch?time_continue=797&v=klrCSZPvPNA.
 * nack500. n.d. あきらめ節 書生節. Accessed November 29, 2018. https://www.youtube.com/watch?v=em8O18-_L3c.
 * 0jac7. n.d. 経済難局の打開について（一） 1/8. Accessed November 29, 2018a. https://www.youtube.com/watch?v=E-3_HBP4peM.
-* ———. n.d. 経済難局の打開について（七） 78. Accessed November 29, 2018b. https://www.youtube.com/watch?v=FmK0jkVNkKY.
-* ———. n.d. 経済難局の打開について（三） 38. Accessed November 29, 2018c. https://www.youtube.com/watch?v=zX6-VBSD92Y.
-* ———. n.d. 経済難局の打開について（二） 28. Accessed November 29, 2018d. https://www.youtube.com/watch?v=_naueF0DjyI.
-* ———. n.d. 経済難局の打開について（五） 58. Accessed November 29, 2018e. https://www.youtube.com/watch?v=9kMQi3nNp-8.
-* ———. n.d. 経済難局の打開について（八） 88. Accessed November 29, 2018f. https://www.youtube.com/watch?v=u1UpfgWsCgk.
-* ———. n.d. 経済難局の打開について（六） 68. Accessed November 29, 2018g. https://www.youtube.com/watch?v=c_pcfGQltEs.
-*———. n.d. 経済難局の打開について（四） 48. Accessed November 29, 2018h. https://www.youtube.com/watch?v=y9TIjmWGtrg.
+* ———. n.d. 経済難局の打開について（二） 2/8. Accessed November 29, 2018d. https://www.youtube.com/watch?v=_naueF0DjyI.
+* ———. n.d. 経済難局の打開について（三） 3/8. Accessed November 29, 2018c. https://www.youtube.com/watch?v=zX6-VBSD92Y.
+* ———. n.d. 経済難局の打開について（四） 4/8. Accessed November 29, 2018h. https://www.youtube.com/watch?v=y9TIjmWGtrg.
+* ———. n.d. 経済難局の打開について（五） 5/8. Accessed November 29, 2018e. https://www.youtube.com/watch?v=9kMQi3nNp-8.
+* ———. n.d. 経済難局の打開について（六） 6/8. Accessed November 29, 2018g. https://www.youtube.com/watch?v=c_pcfGQltEs.
+* ———. n.d. 経済難局の打開について（七） 7/8. Accessed November 29, 2018b. https://www.youtube.com/watch?v=FmK0jkVNkKY.
+* ———. n.d. 経済難局の打開について（八） 8/8. Accessed November 29, 2018f. https://www.youtube.com/watch?v=u1UpfgWsCgk.
 * ototatchinuru18. n.d. 添田唖蝉坊・ノンキ節  / 土取利行（弾き唄い） Nonki-Bushi/ Toshi Tsuchitori. Accessed November 29, 2018. https://www.youtube.com/watch?v=BCTOU0S3wqU.
 
 ### Links to other projects, websites, others
