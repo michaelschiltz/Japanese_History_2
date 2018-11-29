@@ -4,7 +4,7 @@
 
 ### Points of discussion
 
-* On the one hand, Ben Bernanke has famously argued that 'Finance Minister Korekiyo Takahashi brilliantly rescued Japan from the Great Depression through reflationary policies'. Barry Eichengreen, on the other hand, has pointed out that it were 'golden shackles', or, in other words, monetary arrangements rather than fiscal policy, which should be held responsible for the depression that developed after 1929. Are these different arguments or are they complementary? Explain on the basis of the way in which the depression evolved.
+* On the one hand, Ben Bernanke has famously argued that 'Finance Minister Korekiyo Takahashi brilliantly rescued Japan from the Great Depression through reflationary policies'. Barry Eichengreen, on the other hand, has pointed out that it were 'golden shackles', or, in other words, *monetary* arrangements rather than *fiscal* policy, which should be held responsible for the depression that developed after 1929. Are these different arguments or are they complementary? Explain on the basis of the way in which the depression evolved.
 * In which respects is Takahashi really extraordinary? Discuss.
 
 ### Readings
