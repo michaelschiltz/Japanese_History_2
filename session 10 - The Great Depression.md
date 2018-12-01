@@ -13,7 +13,7 @@ Note: compulsory readings have been marked in **bold**
 * Bernanke, Ben S. 2004. *Essays on the Great Depression*. Princeton University Press.
 * Cha, Myung Soo. 2003. “Did Takahashi Korekiyo Rescue Japan from the Great Depression?” *The Journal of Economic History* 63 (1): 127–44. https://doi.org/10.1017/S002205070300175X.
 * Eichengreen, Barry. 1996. *Golden Fetters: The Gold Standard and the Great Depression, 1919-1939*. Oxford University Press, USA.
-* **Metzler, Mark. 2006. *Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan*. Twentieth-Century Japan 17. Berkeley: University of California Press.** 
+* **Metzler, Mark. 2006. *Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan*. Twentieth-Century Japan 17. Berkeley: University of California Press.** Chapter 11 and 12.
 * Nanto, Dick K., and Shinji Takagi. 1985. “Korekiyo Takahashi and Japan’s Recovery from the Great Depression.” *The American Economic Review* 75 (2): 369–74. https://www.jstor.org/stable/1805627.
 
 
