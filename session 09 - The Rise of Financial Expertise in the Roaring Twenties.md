@@ -17,7 +17,7 @@ Note: compulsory readings have been marked in **bold**
 ### Audiovisual materials
 (this session's discussion is mostly based on the following interview with Liaquat Ahamed, author of *The Bankers who Broke the World*)
 
-* The Film Archives. n.d. Lords of Finance: The Bankers Who Broke the World - Financial Crisis (2009). Accessed December 5, 2018. https://www.youtube.com/watch?v=4wl30rHVAtI&t=1956s.
+* The Film Archives. n.d. *Lords of Finance: The Bankers Who Broke the World - Financial Crisis* (2009). Accessed December 5, 2018. https://www.youtube.com/watch?v=4wl30rHVAtI&t=1956s.
 
 
 ### Links to other projects, websites, others
