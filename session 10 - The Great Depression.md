@@ -1,3 +1,5 @@
+![Takahashi with his granddaughter (?)](images/takahashi.jpg)
+
 ### Keywords
 
 * `depression economics`, `fiscal stimulus`, `monetary standards`
