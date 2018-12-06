@@ -1,3 +1,6 @@
+![Inoue Junnosuke](images/Inoue_Junnosuke.jpg)
+
+
 ### Keywords
 
 * `induced deflation`, `austerity`, `hard money`
