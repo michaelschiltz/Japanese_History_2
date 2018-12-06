@@ -1,3 +1,6 @@
+![children_in_the_showa_kyoko](images/children_in_the_showa_kyoko.jpg)
+
+
 ### Keywords
 
 
