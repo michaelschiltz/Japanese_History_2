@@ -2,6 +2,8 @@
 
 * `expertise`, `money doctoring`, `gold exchange standard`
 
+![Hjalmar-Schacht-Benjamin-Strong-Montagu-Norman-and-Charles-Rist](images/Hjalmar-Schacht-Benjamin-Strong-Montagu-Norman-and-Charles-Rist_W640.jpg)
+
 ### Points of discussion
 
 
