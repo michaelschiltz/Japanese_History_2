@@ -6,7 +6,7 @@
 
 * although Korea became the model for most of Japan's attempts of establishing monetary spheres of influence in Asia, it was itself modelled upon the British design of India's monetary model. Discuss. 
 * In what way do gold exchange standards accentuate the role of national currencies? Relate the latter to the (largely imaginary) vision of the gold standard as an automatic device, that was characteried by anonymous cross-border gold flows.
-* try to relate your understanding of gold exchange standards with earlier discussions about liquidity. Were gold exchange standards not primarily aimed at bolstering demand for the currency of the core country (i.e. Japan)? Think as well of early 20th century American efforts at boosting the use of the dollar.
+* try to relate your understanding of gold exchange standards with earlier discussions about liquidity. Were gold exchange standards not primarily aimed at bolstering demand for the currency of the core country (i.e. Japan)? Think as well of early 20th century American efforts at boosting the use of the dollar through setting up gold exchange standards (in the Philippines, ...).
 
 ### Readings
 Note: compulsory readings have been marked in **bold**
