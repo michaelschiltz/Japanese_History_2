@@ -1,3 +1,5 @@
+![Korea between Russia and Japan](images/korea-tight-place1200.jpg)
+
 ### Keywords
 
 `gold exchange standard`, `currency imperialism`, `blocism`
