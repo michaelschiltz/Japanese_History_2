@@ -50,11 +50,13 @@ Undergraduate students often find it challenging to read scientific articles; an
 
 #### Grading System
 
-Evaluation will be based on: reading notes, class discussions (other means of evaluation may be discussed with the students). There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations. They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
+Evaluation will be based on: reading notes, class discussions (other means of evaluation may be discussed with the students). There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations (these are a *must*). They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
 Although all grading is characterized by an inherent opacity (if only for the simple reason that every presentation pertains to different material and a different session), here are some simple rules:
 
 1. students presenting on several occasions will receive a higher grade
 2. students making elaborate presentations (including audiovisual material, links to primary sources etc.) will be rewarded for the extra effort
 3. showing that you mastered the readings by partaking actively in the discussions is a plus.
 
-As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), the class strongly encourages and rewards participation; vice versa, it penalizes a passive or absent behavior.　
+As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), it **strongly encourages and rewards participation**; vice versa, **it penalizes a passive or absent behavior**.　Concretely, 80 percent of your grade is based on class discussion; the remaining 20 percent is reserved for presentations.
+
+Some rules: whereas attendance is considered crucial, merely being present in class is insufficient to pass. Active participation is prerequisite. Checking social media or constantly looking at your phone during class is discourageing and even disturbing for your peers, so should be avoided. This class demands a considerable degree of commitment; do not take this class if you are not motivated.
