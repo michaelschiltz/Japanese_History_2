@@ -60,3 +60,12 @@ Although all grading is characterized by an inherent opacity (if only for the si
 As this class is an example of [problem-based learning](https://en.wikipedia.org/wiki/Problem-based_learning) and the ['flipped classroom'](https://en.wikipedia.org/wiki/Flipped_classroom), it **strongly encourages and rewards participation**; vice versa, **it penalizes a passive or absent behavior**. Concretely, 80 percent of your grade is based on class discussion; the remaining 20 percent is reserved for presentations.
 
 **Some basic rules: whereas attendance is considered crucial, merely being present in class is insufficient to pass. Active participation is prerequisite. Checking social media or constantly looking at your phone during class is discourageing and even disturbing for your peers, so should be avoided. This class demands a considerable degree of commitment; do not take this class if you are not motivated.**
+
+#### What are the necessary elements of a presentation?
+
+* historical outline of the topic to be discussed: see the aforementioned *A Modern History of Japan: From Tokugawa Times to the Present*; a host of online sources (including Wikipedia) may be used for encyclopedic material.
+* a **clear outline of what you intend to discuss**
+* if applicable, references to recent or contemporary events
+* indications of what you found difficult to understand
+* a *timeline* of events
+* references to primary materials in online databases: search the [Japan Center for Asian Records](https://www.jacar.go.jp/), the [National Diet Library's Digital Collections](http://dl.ndl.go.jp/), the [Kobe University Archive of Newspaper clippings](http://www.lib.kobe-u.ac.jp/sinbun/index.html), and so on...
