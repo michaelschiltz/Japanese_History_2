@@ -50,7 +50,7 @@ Undergraduate students often find it challenging to read scientific articles; an
 
 #### Grading System
 
-Evaluation will be based on: reading notes, class discussions (other means of evaluation may be discussed with the students). There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations (these are a *must*). They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
+Evaluation will be based on: reading notes, class discussions (other means of evaluation may be discussed with the students). There is no paper to be written; instead, students are asked to make ‘smart’, elaborate and interactive presentations (these are a *must*: presentations will aid you in keeping track of the idea you intend to develop, and are a great tool for your colleagues). They are responsible for putting the presented reading in context, and act as ‘moderator’ for the follow-up discussion.
 Although all grading is characterized by an inherent opacity (if only for the simple reason that every presentation pertains to different material and a different session), here are some simple rules:
 
 1. students presenting on several occasions will receive a higher grade
