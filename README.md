@@ -19,7 +19,8 @@ Tamaki, Norio. 1995. *Japanese Banking: A History, 1859-1959*. Studies in Moneta
 
 #### Topics to be covered:
 
-[[0. The Notion of *Network Effects*]]
+(An introductory session may be used to acquaint students with the notion of 'network effects')
+
 1. [Bakumatsu currency crisis](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2001%20-%20Bakumatsu%20currency%20crisis.md)
 2. [From the Trade Dollar to the Bank of Japan](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2002%20-%20From%20the%20Trade%20Dollar%20to%20the%20Bank%20of%20Japan.md)
 3. [Matsukata deflation](https://github.com/michaelschiltz/Japanese_History_2/blob/master/session%2003%20-%20Matsukata%20deflation.md)
