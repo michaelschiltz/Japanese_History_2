@@ -13,7 +13,7 @@
 * why is it important to know that silver and gold were not mere commodities, but the country's currency as well?
 * try to explain how Japan's adoption of the gold standard as a monetary standard is not a neutral event, but reflects the norms associated with a Great-Britain led world-order.
 * do you see parallels with other past and/or contemporary happenings?
-* **The [Kanagawa Treaty](https://en.wikipedia.org/wiki/Convention_of_Kanagawa) and the [Harris Treaty](https://en.wikipedia.org/wiki/Treaty_of_Amity_and_Commerce_(United_States%E2%80%93Japan)) (together with appendices) can be found in full-text version online (Wikisource contains only parts of the text): make sure to read these originals and point out the relevant articles.** 
+* **The [Kanagawa Treaty](https://en.wikipedia.org/wiki/Convention_of_Kanagawa) and the [Harris Treaty](https://en.wikipedia.org/wiki/Treaty_of_Amity_and_Commerce_(United_States%E2%80%93Japan)) (together with appendices) can be found in full-text version online (Wikisource contains only parts of the text): make sure to read these originals and point out the relevant articles. Students with a sufficient level of Japanese are strongly invited to consult the Japanese originals in [JACAR](https://www.jacar.go.jp/).** 
 
 Note: Japanese era-names tend to confuse even the seasoned historian; for reference, see the following [template](https://en.wikipedia.org/wiki/Template:Timeline_of_Japanese_era_names) (and a [Japanese equivalent](https://ja.wikipedia.org/wiki/%E5%85%83%E5%8F%B7%E4%B8%80%E8%A6%A7_(%E6%97%A5%E6%9C%AC)). For a more extensive exploration, see: William Bramsen. 1880. *Japanese Chronological Tables*. [Printed at the “SeishiBunsha” office]. http://archive.org/details/japanesechronol01bramgoog.
 
