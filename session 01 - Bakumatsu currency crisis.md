@@ -59,3 +59,7 @@ Source: Anonymous, “A Compendium of Events and Record of the Rice Market from 
 
 Source: As6673. 2008. English: Bunsei-Nanryo-2shu. Own work. https://commons.wikimedia.org/wiki/File:Bunsei-nanryo-2shu.jpg.
 A *nishugin* 二朱銀 silver piece. Note the explicit reference to its convertibility into gold.
+
+![Domestic Gold and Silver in Happy Play (Freefall)](images/Steele-Figure-15-e1535387839171.jpg).
+
+Source: Utagawa Kunimaru, 1865. Source: Hachirō Yuasa Memorial Museum, ICU, Poking Fun, p. 17.
