@@ -60,7 +60,7 @@ Source: Anonymous, “A Compendium of Events and Record of the Rice Market from 
 Source: As6673. 2008. English: Bunsei-Nanryo-2shu. Own work. https://commons.wikimedia.org/wiki/File:Bunsei-nanryo-2shu.jpg.
 A *nishugin* 二朱銀 silver piece. Note the explicit reference to its convertibility into gold.
 
-![Domestic Gold and Silver in Happy Play (Freefall)](images/Steele-Figure-15-e1535387839171.jpg).
+![Domestic Gold and Copper Coins in Happy Play (Freefall)](images/Steele-Figure-15-e1535387839171.jpg).
 
-Source: Utagawa Kunimaru, 1865. Source: Hachirō Yuasa Memorial Museum, ICU, Poking Fun, p. 17.
+Source: Utagawa Kunimaru, 1865. 「家内楽金銭遊セル図」. Source: Hachirō Yuasa Memorial Museum, ICU, Poking Fun, p. 17.
 This print appears to poke fun at the vagaries of exchange rates among gold, silver, and copper coins in the bakumatsu period. 
