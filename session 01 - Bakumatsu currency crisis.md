@@ -5,6 +5,7 @@
 ### A Timeline of Events
 
 * see [here](https://github.com/michaelschiltz/Japanese_History_2/blob/master/related%20docs/session_1_timeline.pdf)
+* **The [Currency Museum of the Bank of Japan](http://www.imes.boj.or.jp/cm/english/index.html) has its own [handy timeline](http://www.imes.boj.or.jp/cm/english/history/)**.
 
 ### Points of discussion
 
