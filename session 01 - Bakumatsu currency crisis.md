@@ -63,3 +63,4 @@ A *nishugin* 二朱銀 silver piece. Note the explicit reference to its converti
 ![Domestic Gold and Silver in Happy Play (Freefall)](images/Steele-Figure-15-e1535387839171.jpg).
 
 Source: Utagawa Kunimaru, 1865. Source: Hachirō Yuasa Memorial Museum, ICU, Poking Fun, p. 17.
+This print appears to poke fun at the vagaries of exchange rates among gold, silver, and copper coins in the bakumatsu period. 
