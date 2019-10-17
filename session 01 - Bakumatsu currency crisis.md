@@ -27,6 +27,7 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* Alcock, Rutherford. 1863. *The Capital of the Tycoon: A Narrative of a Three Years’ Residence in Japan.* London: Longman, Green, Longman, Roberts & Green. [Vol. 1](https://archive.org/details/in.ernet.dli.2015.43941/page/n7) and [Vol. 2](https://archive.org/details/in.ernet.dli.2015.237755/page/n11). (**seek references with respect to gold and silver**)
 * Griffis, William Elliot. 1895. *Townsend Harris, First American Envoy in Japan*. Boston, New York, Houghton, Mifflin and Company. http://archive.org/details/townsendharrisf00grifgoog.
 * Harris, Townsend. 1959. *Complete Journal of Townsend Harris*. Rutland, Vt.,: C. E. Tuttle co. http://archive.org/details/completejournalo00harr. (**seek references with respect to gold and silver**)
 * **Matsukata, Masayoshi. 1897. *Reasons for the Adoption of a Single Gold Standard by the Empire of Japan* [Microform]. [S.l. : s.n.]. http://archive.org/details/reasonsforadopti00mats.**
