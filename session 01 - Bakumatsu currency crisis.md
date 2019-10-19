@@ -68,6 +68,7 @@ Source: As6673. 2008. English: Bunsei-Nanryo-2shu. Own work. https://commons.wik
 A *nishugin* 二朱銀 silver piece. Note the explicit reference to its convertibility into gold. This is a clear example of a 'banknote printed on silver'.
 
 
+
 ![Domestic Gold and Copper Coins in Happy Play (Freefall)](images/Steele-Figure-15-e1535387839171.jpg).
 
 Source: Utagawa Kunimaru, 1865. 「家内楽金銭遊セル図」.
