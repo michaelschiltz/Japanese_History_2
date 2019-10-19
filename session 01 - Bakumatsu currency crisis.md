@@ -25,6 +25,12 @@ Note: compulsory readings have been marked in **bold**
 * **Metzler, Mark. 2006. *Lever of Empire: The International Gold Standard and the Crisis of Liberalism in Prewar Japan*. Twentieth-Century Japan 17. Berkeley: University of California Press.** Pp. 14-28.
 * Ohkura, Takehiko, and Hiroshi Shimbo. 1978. “The Tokugawa Monetary Policy in the Eighteenth and Nineteenth Centuries.” *Explorations in Economic History* 15 (1): 101–24. https://doi.org/10.1016/0014-4983(78)90040-2.
 
+How arbitrage in the bakumatsu currency crisis worked:
+![bakumatsu arbitrage](images/bakumatsu_arbitrage.png)
+
+Source: “Currency Museum Bank of Japan - Contents.” n.d. Accessed October 19, 2019. http://www.imes.boj.or.jp/cm/english/history/content/#EarlyModern.
+
+
 ### Primary sources
 
 * Alcock, Rutherford. 1863. *The Capital of the Tycoon: A Narrative of a Three Years’ Residence in Japan.* London: Longman, Green, Longman, Roberts & Green. [Vol. 1](https://archive.org/details/in.ernet.dli.2015.43941/page/n7) and [Vol. 2](https://archive.org/details/in.ernet.dli.2015.237755/page/n11). (**seek references with respect to gold and silver**)
