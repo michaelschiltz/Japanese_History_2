@@ -55,10 +55,12 @@ Note: compulsory readings have been marked in **bold**
 
 Source: Anonymous, “A Compendium of Events and Record of the Rice Market from 1853 to 1868” (嘉永年間より米相場値段並年代記書抜大新版 *Ka’ei nenkan yori bei sōba nedan narabi ni nendaiki kakinuki daishinpan*), n.d., but perhaps (?) mid-1868. Source: Hachiro Yuasa Memorial Museum.
 
+
 ![a nishugin silver piece](images/Bunsei-nanryo-2shu.jpg)
 
 Source: As6673. 2008. English: Bunsei-Nanryo-2shu. Own work. https://commons.wikimedia.org/wiki/File:Bunsei-nanryo-2shu.jpg.
-A *nishugin* 二朱銀 silver piece. Note the explicit reference to its convertibility into gold.
+A *nishugin* 二朱銀 silver piece. Note the explicit reference to its convertibility into gold. This is a clear example of a 'banknote printed on silver'.
+
 
 ![Domestic Gold and Copper Coins in Happy Play (Freefall)](images/Steele-Figure-15-e1535387839171.jpg).
 
