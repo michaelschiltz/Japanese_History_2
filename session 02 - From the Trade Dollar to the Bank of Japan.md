@@ -34,3 +34,4 @@ Note: compulsory readings have been marked in **bold**
 
 ### to follow (@twitter)
 
+![the Japanese trade dollar](images/1yen-M8silver.jpg)
