@@ -20,6 +20,8 @@ Note: compulsory readings have been marked in **bold**
 
 ### Primary sources
 
+* **Masayoshi Matsukata. 1899. *Report on the Adoption of the Gold Standard in Japan*. Printed at the Government press. http://archive.org/details/reportonadoptio00matsgoog.** Pp. 46ff. Search for references to Belgium.
+* 日本銀行, and 日本銀行百年史編纂委員会. 1982. [日本銀行百年史](https://www.boj.or.jp/about/outline/history/hyakunen/hyaku1.htm/). 日本銀行. http://ci.nii.ac.jp/ncid/BN00156333.
 
 ### Audiovisual materials
 
