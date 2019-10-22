@@ -1,12 +1,12 @@
 ### Keywords
 
-[trade dollar](https://en.wikipedia.org/wiki/Trade_dollar), [貿易銀](https://ja.wikipedia.org/wiki/%E8%B2%BF%E6%98%93%E9%8A%80), silver standard, bimetallism, isolationism
+**[trade dollar](https://en.wikipedia.org/wiki/Trade_dollar)**, [貿易銀](https://ja.wikipedia.org/wiki/%E8%B2%BF%E6%98%93%E9%8A%80), silver standard, bimetallism, isolationism
 
 ### Points of discussion
 
 * what was the point in introducing a trade dollar next to Japan's existing monetary system?
-* how did 'legal imperialism' offer opportunities to the Japanese side?
-* what was the main innovation of the Bank of Belgium, and how did this fit the intention of Japanese policy makers?
+* how did 'legal imperialism' also offer opportunities to the Japanese side?
+* what was the main innovation of the National Bank of Belgium, and how did this fit the intention of Japanese policy makers?
 * Do you know of contemporary examples of countries holding large foreign exchange reserves?
 
 ### Readings
@@ -33,9 +33,4 @@ Note: compulsory readings have been marked in **bold**
 
 
 ### to follow (@twitter)
-
-
-
-
-
 
