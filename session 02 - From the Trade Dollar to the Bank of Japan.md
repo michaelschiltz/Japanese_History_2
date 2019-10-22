@@ -5,6 +5,7 @@
 ### Points of discussion
 
 * what was the point in introducing a trade dollar next to Japan's existing monetary system?
+* how did 'legal imperialism' offer opportunities to the Japanese side?
 * what was the main innovation of the Bank of Belgium, and how did this fit the intention of Japanese policy makers?
 * Do you know of contemporary examples of countries holding large foreign exchange reserves?
 
