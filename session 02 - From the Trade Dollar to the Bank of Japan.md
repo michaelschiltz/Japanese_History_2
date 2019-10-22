@@ -13,8 +13,9 @@ Note: compulsory readings have been marked in **bold**
 
 * Drake, P. J. 1991. “Southeast Asian Monies and the Problem of a Common Measure, with Particular Reference to the Nineteenth Century.” *Australian Economic History Review* 31 (1): 90–96. https://doi.org/10.1111/aehr.311006
 * Garnett, Porter. 1917. “The History of the Trade Dollar.” *The American Economic Review* 7 (1): 91–97. https://www.jstor.org/stable/1814353.
+* **Kayaoğlu, Turan. 2014. *Legal Imperialism: Sovereignty and Extraterritoriality in Japan, the Ottoman Empire, and China*. Reprint edition. Cambridge: Cambridge University Press.** chapter 2.
 * **Schiltz, Michael. 2006. “An ‘Ideal Bank of Issue’: The Banque Nationale de Belgique as a Model for the Bank of Japan.” *Financial History Review* 13 (02): 179–96. https://doi.org/10.1017/S0968565006000230.**
-* **Tamaki, Norio. 1995. *Japanese Banking: A History*, 1859-1959. Studies in Monetary and Financial History. Cambridge: Cambridge University Press. Pp. 1-46.**
+* Tamaki, Norio. 1995. *Japanese Banking: A History*, 1859-1959. Studies in Monetary and Financial History. Cambridge: Cambridge University Press. Pp. 1-46.
 * 岡田俊平. 1956. “日本貿易銀.” 成城大學經濟研究, no. 5 (February): 100–128. https://ci.nii.ac.jp/naid/110009552485.
 
 ### Primary sources
