@@ -13,6 +13,7 @@ Note: compulsory readings have been marked in **bold**
 
 * Best, Gary Dean. 1972. “Financing a Foreign War: Jacob H. Schiff and Japan, 1904–05.” *American Jewish Historical Quarterly* 61 (4): 313–24. https://www.jstor.org/stable/23880523.
 * Gower, A. 2016. “Jacob Schiff and the Financing of Japan.” Doctoral, UCL (University College London). http://discovery.ucl.ac.uk/1522336/.
+* Gower, Adam. 2018. *Jacob Schiff and the Art of Risk: American Financing of Japan’s War with Russia (1904-1905)*. Palgrave Studies in the History of Finance. Palgrave Macmillan. https://doi.org/10.1007/978-3-319-90266-1.
 * **Miller, Ed. 2005. “Japan’s Other Victory: Overseas of the War.” In *THE RUSSO-JAPANESE WAR IN GLOBAL PERSPECTIVE - World War Zero*, by John W Steinberg, Bruce W. Menning, David Schimmelpenninck van der Oye, David Wolff, and Yokote Shinji, 465–84. Leiden, Boston: Brill Publishers.**
 * **Ono, Keishi. 2007. “Japan’s Monetary Mobilization for War.” *The Russo-Japanese War in Global Perspective*, January, 251–69. https://brill.com/abstract/book/edcoll/9789047411123/Bej.9789004154162.i-583_011.xml.**
 * Sherman, A. J. 1983. “German-Jewish Bankers in World Politics: The Financing of the Russo-Japanese War.” *The Leo Baeck Institute Year Book* 28 (1): 59–73. https://doi.org/10.1093/leobaeck/28.1.59.
