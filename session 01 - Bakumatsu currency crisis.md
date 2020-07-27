@@ -9,7 +9,7 @@
 
 ### Points of discussion
 
-* a critical text examination: list the characteristics of Matsukata's report; who is his audience? what does he try to accomplish? how does all this affect out interpretation of his text?
+* a critical text examination: list the characteristics of Matsukata's report; who is his audience? what does he try to accomplish? how does all this affect our interpretation of his text?
 * why could the pre-modern monetary system continue for so long? List the conditions for this; who or what was to gain from this set-up?
 * why is it important to know that silver and gold were not mere commodities, but the country's currency as well?
 * try to explain how Japan's adoption of the gold standard as a monetary standard is not a neutral event, but reflects the norms associated with a Great-Britain led world-order.
