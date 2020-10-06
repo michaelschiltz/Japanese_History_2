@@ -13,6 +13,7 @@ Note: compulsory readings have been marked in **bold**
 
 * **Ericson, Steven J. 2014. “The ‘Matsukata Deflation’ Reconsidered: Financial Stabilization and Japanese Exports in a Global Depression, 1881–85.” *The Journal of Japanese Studies* 40 (1): 1–28. https://doi.org/10.1353/jjs.2014.0045.**
 * **———. 2016. “Orthodox Finance and ‘The Dictates of Practical Expediency’: Influences on Matsukata Masayoshi and the Financial Reform of 1881–1885.” *Monumenta Nipponica* 71 (1): 83–117. https://doi.org/10.1353/mni.2016.0002.**
+* **Ericson, Steven J. 2020. Financial Stabilization in Meiji Japan: The Impact of the Matsukata Reform. Ithaca: Cornell Univ Pr.**
 * Takemori, Shumpei, and Lioudmila Savtchenko. 2008. “Monetary Regimes and Inflationary Expectations.” *Japanese Economy* 35 (4): 3–21. https://doi.org/10.2753/JES1097-203X350401.
 * 渡辺房男. 2012. 『日本銀行を創った男―小説・松方正義』. 東京: 文藝春秋.
 
