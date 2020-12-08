@@ -2,6 +2,8 @@
 
 ### The History of the Japanese Yen
 
+##### Introductory Quote: "We live in financial times." (public relations campain slogan by the Financial Times, 2007)
+
 #### Course Objectives
 
 As traditional historiographies of a country’s experience with modernity are mostly ordered according to an axis of ‘key moments’ or ‘junctures’ that were typically identified in hindsight (and, therefore, not visible as such to contemporaries), they often gloss over processes and/or structures that accumulate, build up over time and that are mostly latently present. Without rejecting traditional historiographies as unscientific or misleading, this course attempts to experiment with studying the latter.
