@@ -52,7 +52,7 @@ Students are expected to:
 
 Undergraduate students often find it challenging to read scientific articles; and indeed, the format that characterizes scientific publications is quite different from what may have been familiar in highschool. [Here](https://en.wikipedia.org/wiki/SQ3R) is a digest of a comprehensive reading method called SQ3R; there also exists a [longer guide](https://www.ucc.vt.edu/academic_support/online_study_skills_workshops/SQ3R_improving_reading_comprehension.html).
 
-UPDATE: I am also very fond of [this discussion on the LSE Imppact blog](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/).
+UPDATE: I am also very fond of [this discussion on the LSE Impact blog](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/).
 
 #### Grading System
 
